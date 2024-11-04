@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Periodic Table of Elements Project">
+    <title>Periodic Table of Elements</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>The Periodic Table of Elements</h1>
+        <p>Your guide to understanding the backbone of chemistry.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#history">History</a></li>
+            <li><a href="#modern-table">Modern Table</a></li>
+            <li><a href="#trends">Periodic Trends</a></li>
+            <li><a href="#families">Element Families</a></li>
+        </ul>
+    </nav>
+
+    <section id="history">
+        <h2>History of the Periodic Table</h2>
+        <p><strong>Dmitri Mendeleev:</strong> Developed the first periodic table and predicted undiscovered elements.</p>
+        <p><strong>Henry Moseley:</strong> Reorganized the table by atomic number, leading to the modern periodic table.</p>
+    </section>
+
+    <section id="modern-table">
+        <h2>Modern Periodic Table Organization</h2>
+        <p><strong>Groups and Periods:</strong> The periodic table is organized by rows (periods) and columns (groups).</p>
+        <p><strong>Valence Electrons:</strong> The number of valence electrons helps predict element behavior.</p>
+        <p><strong>Sublevels (S, P, D, F blocks):</strong> The periodic table is divided into blocks based on electron configurations.</p>
+    </section>
+
+    <section id="trends">
+        <h2>Periodic Trends</h2>
+        <ul>
+            <li><strong>Atomic Radius:</strong> Decreases across a period, increases down a group.</li>
+            <li><strong>Ionic Radius:</strong> Similar trend to atomic radius.</li>
+            <li><strong>Ionization Energy:</strong> Increases across a period, decreases down a group.</li>
+            <li><strong>Electronegativity:</strong> Increases across a period, decreases down a group.</li>
+        </ul>
+    </section>
+
+    <section id="families">
+        <h2>Element Families</h2>
+        <h3>S Block Elements</h3>
+        <p><strong>Hydrogen, Alkali Metals, Alkaline Earth Metals:</strong> Highly reactive elements, especially in the alkali group.</p>
+
+        <h3>P Block Elements</h3>
+        <p><strong>Boron Group, Carbon Group, Nitrogen Group, Oxygen Group, Halogens, Noble Gases:</strong> Diverse group including metals, metalloids, and nonmetals.</p>
+
+        <h3>D Block Elements</h3>
+        <p><strong>Transition Metals:</strong> Known for their conductivity and wide range of oxidation states.</p>
+
+        <h3>F Block Elements</h3>
+        <p><strong>Lanthanides and Actinides:</strong> Rare earth elements and radioactive elements found in the f-block.</p>
+    </section>
+
+    <footer>
+        <p>Created by: Seyi | On-Level Chemistry | 2024-2025</p>
+    </footer>
+</body>
+</html>
